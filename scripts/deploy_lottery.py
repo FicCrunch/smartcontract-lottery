@@ -45,7 +45,7 @@ def end_lottery():
     time.sleep(60)
     print(f"{lottery.recentWinner()} is the new winner!")
     # fund the contract then end the lottery
-
+    print()
 
 def main():
     deploy_lottery()

@@ -1,5 +1,0 @@
-[
-  "tests/test_lottery.py::test_get_entracne_fee",
-  "tests/test_lottery_unit.py::test_cant_enter_unless_starter",
-  "tests/test_lottery_unit.py::test_get_entrance_fee"
-]
